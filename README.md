@@ -21,7 +21,7 @@
 | 11.04  |  10   | 选题：AI4S赛题调优、图像分割                   | 研讨实践 |       --       |
 | 11.11  |  11   | LLM实践 - 评测专业领域下开源大模型的性能 | 随堂实践 |       --       |
 | 11.18、11.25  | 12-13 | RL实践 - 五子棋对战                      | 随堂实践 |       --       |
-| 12.02  |  14   | 选题：bert微调用于其他NLP任务、五子棋博弈优化      | 研讨实践 |       --       |
+| 12.02  |  14   | 选题：bert微调用于其他NLP任务【[新闻文本分类](https://tianchi.aliyun.com/competition/entrance/531810)、[中文NLP地址要素解析](https://tianchi.aliyun.com/competition/entrance/531900)、[医学搜索Query相关性判断](https://tianchi.aliyun.com/competition/entrance/532001)】、五子棋博弈优化      | 研讨实践 |       --       |
 | 12.09  |  15   | AISec实践                                | 随堂实践 |       --       |
 
 
