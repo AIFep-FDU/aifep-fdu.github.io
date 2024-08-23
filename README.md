@@ -1,7 +1,7 @@
 ## Frontier Exploration and Practice of Artificial Intelligence (2024 Autumn)
 ==========================
 
-- 课堂：每周五13:30-16:10，H4101 
+- 课堂：每周一18:30-21:05，Hxxx 
 - 主讲教师：[陈智能](https://zhinchenfd.github.io/)
 - 助教：待完善
 - 讨论交流：微信群、github仓库PR
