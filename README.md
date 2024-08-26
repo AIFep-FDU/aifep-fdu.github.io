@@ -29,3 +29,5 @@
 - [OP1] 根据自己的专业特色，构建解决自己专业内任务的模型
 - [OP2] [文档篡改智能识别比赛](https://tianchi.aliyun.com/competition/entrance/532223/information)
 - [OP3] 论文复现
+  推荐项目一：【Responsible TA 杜永坤 】
+  推荐项目二：【Responsible TA 宋一飞 】
