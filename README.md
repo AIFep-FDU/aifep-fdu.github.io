@@ -12,11 +12,11 @@
 
 |  Date  | Week  |                  Topic                   |   Type   | Responsible TA | Score |
 | :----: | :---: | :--------------------------------------: | :------: | :------------: | :---: |
-| 09.14  |   3   | NN入门实践 - 简单神经网络的搭建          | 随堂实践 |      张园园        | 4 |
+| 09.14  |   3   | [NN入门实践 - 简单神经网络的搭建](https://github.com/AIFep-FDU/NN-Starter)          | 随堂实践 |      张园园        | 4 |
 | 09.23  |   4   | NLP入门实践 - word2vec                   | 随堂实践 |       张园园       | 4 |
 | 09.30  |   5   | NLP实践 - bert微调NLI任务                      | 随堂实践 |       白维康       | 4 |
 | 10.12  |   6   | AI4S实践 - 超导体临界温度预测            | 随堂实践 |       段钧文       | 4 |
-| 10.14  |   7   | CV入门实践 - 图像分类                    | 随堂实践 |       叶兴松       | 4 |
+| 10.14  |   7   | [CV入门实践 - 图像分类](https://github.com/AIFep-FDU/CV-Starter)                    | 随堂实践 |       叶兴松       | 4 |
 | 10.21  |   8   | AISec实践 - 针对视觉模型的对抗攻击                              | 随堂实践 |       张家豪       | 4 |
 | 10.28  |   9   | LLM实践 - 评测开源大模型在专业领域下或抗越狱攻击的性能 | 随堂实践 |       叶兴松、张家豪       | 4 |
 | 11.04  |  10   | 选题：超导体临界温度预测赛题调优、bert微调用于其他NLP任务【[新闻文本分类](https://tianchi.aliyun.com/competition/entrance/531810)、[中文NLP地址要素解析](https://tianchi.aliyun.com/competition/entrance/531900)、[医学搜索Query相关性判断](https://tianchi.aliyun.com/competition/entrance/532001)】                   | 研讨汇报 |       段钧文、白维康       | 10 |
