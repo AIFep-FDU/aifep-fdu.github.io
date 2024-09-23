@@ -13,7 +13,7 @@
 |  Date  | Week  |                  Topic                   |   Type   | Responsible TA | Score |
 | :----: | :---: | :--------------------------------------: | :------: | :------------: | :---: |
 | 09.14  |   3   | [NN入门实践 - 简单神经网络的搭建](https://github.com/AIFep-FDU/NN-Starter)          | 随堂实践 |      张园园        | 4 |
-| 09.23  |   4   | NLP入门实践 - word2vec                   | 随堂实践 |       张园园       | 4 |
+| 09.23  |   4   | [NLP入门实践 - word2vec](https://github.com/AIFep-FDU/word2vec)                   | 随堂实践 |       张园园       | 4 |
 | 09.30  |   5   | NLP实践 - bert微调NLI任务                      | 随堂实践 |       白维康       | 4 |
 | 10.12  |   6   | AI4S实践 - 超导体临界温度预测            | 随堂实践 |       段钧文       | 4 |
 | 10.14  |   7   | [CV入门实践 - 图像分类](https://github.com/AIFep-FDU/CV-Starter)                    | 随堂实践 |       叶兴松       | 4 |
