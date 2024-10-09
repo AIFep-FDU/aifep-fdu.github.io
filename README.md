@@ -15,7 +15,7 @@
 | 09.14  |   3   | [NN入门实践 - 简单神经网络的搭建](https://github.com/AIFep-FDU/NN-Starter)          | 随堂实践 |      张园园        | 4 |
 | 09.23  |   4   | [NLP入门实践 - word2vec](https://github.com/AIFep-FDU/word2vec)                   | 随堂实践 |       张园园       | 4 |
 | 09.30  |   5   | [NLP实践 - bert微调NLI任务](https://github.com/AIFep-FDU/Bert_PLM)                      | 随堂实践 |       白维康       | 4 |
-| 10.12  |   6   | AI4S实践 - 超导体临界温度预测            | 随堂实践 |       段钧文       | 4 |
+| 10.12  |   6   | [AI4S实践 - 超导体临界温度预测](https://github.com/AIFep-FDU/AI4S)            | 随堂实践 |       段钧文       | 4 |
 | 10.14  |   7   | [CV入门实践 - 图像分类](https://github.com/AIFep-FDU/CV-Starter)                    | 随堂实践 |       叶兴松       | 4 |
 | 10.21  |   8   | 选题：超导体临界温度预测赛题调优、bert微调用于其他NLP任务【[新闻文本分类](https://tianchi.aliyun.com/competition/entrance/531810)、[中文NLP地址要素解析](https://tianchi.aliyun.com/competition/entrance/531900)、[医学搜索Query相关性判断](https://tianchi.aliyun.com/competition/entrance/532001)】                   | 研讨汇报 |       段钧文、白维康       | 10 |
 | 11.28、11.04   | 9、10 | RL实践 - 五子棋对战                      | 随堂实践 |       雷一鸣       | 8 |
