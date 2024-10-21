@@ -19,7 +19,7 @@
 | 10.14  |   7   | [CV入门实践 - 图像分类](https://github.com/AIFep-FDU/CV-Starter)                    | 随堂实践 |       叶兴松       | 4 |
 | 10.21  |   8   | 选题：超导体临界温度预测赛题调优、bert微调用于其他NLP任务【[新闻文本分类](https://tianchi.aliyun.com/competition/entrance/531810)、[中文NLP地址要素解析](https://tianchi.aliyun.com/competition/entrance/531900)、[医学搜索Query相关性判断](https://tianchi.aliyun.com/competition/entrance/532001)】                   | 研讨汇报 |       段钧文、白维康       | 10 |
 | 10.28  | 9     | RL实践 - Picman DQN算法实现                      | 随堂实践 |       雷一鸣       | 4 |
-| 11.04  | 10    | RL实践 - Taught Itself To Walk                  | 随堂实践 |       雷一鸣       | 4 |
+| 11.04  |  10    | RL实践 - Taught Itself To Walk                  | 随堂实践 |       雷一鸣       | 4 |
 | 11.11  |   11   | AISec实践 - 针对视觉模型的对抗攻击                              | 随堂实践 |       张家豪       | 4 |
 | 11.18  |   12   | LLM实践 - 评测开源大模型在专业领域下或抗越狱攻击的性能 | 随堂实践 |       叶兴松、张家豪       | 4 |
 | 11.25  |  13   | CV实践 - 图像检测                        | 随堂实践 |       谢雅真       | 4 |
